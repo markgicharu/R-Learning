@@ -1,0 +1,1 @@
+c(TRUE, TRUE, FALSE) && C(FALSE, TRUE, TRUE)
